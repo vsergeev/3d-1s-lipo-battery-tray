@@ -28,4 +28,8 @@ A parametric battery tray for 1S LiPos. Available in standard and narrow battery
 
 **Recommended Print Settings:** 0.20mm layer height, 15-100% infill, no supports
 
+**Printables**: https://www.printables.com/model/1406552-parametric-1s-lipo-battery-tray
+
+**Thingiverse**: https://www.thingiverse.com/thing:7137582
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
