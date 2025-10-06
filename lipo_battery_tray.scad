@@ -4,6 +4,8 @@
  * CC-BY-4.0
  *
  * Release Notes
+ *  * v1.1 - 10/05/2025
+ *      * Increase narrow battery slot height.
  *  * v1.0 - 09/06/2025
  *      * Initial release.
  ********************************************************/
@@ -19,7 +21,7 @@ tray_z_height = 15;
 
 battery_slot_standard_dimensions = [15.6, 7.1];
 battery_slot_standard_pitch = [20, 12];
-battery_slot_narrow_dimensions = [11.9, 6.4];
+battery_slot_narrow_dimensions = [11.9, 6.5];
 battery_slot_narrow_pitch = [16, 12];
 battery_slot_xy_radius = 1;
 
